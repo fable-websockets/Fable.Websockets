@@ -3,6 +3,15 @@ A library to provide strongly typed client/server communication between Fable an
 
 [![Build Status](https://travis-ci.org/fable-websockets/Fable.Websockets.svg?branch=master)](https://travis-ci.org/fable-websockets/Fable.Websockets)
 
+Available Packages:
+
+| Library  | Verion |
+| ------------- | ------------- |
+| Fable.Websockets.Suave  | [![Nuget](https://img.shields.io/nuget/v/Fable.Websockets.Suave.svg?colorB=green)](https://www.nuget.org/packages/Fable.Websockets.Suave) |
+| Fable.Websockets.Client  | [![Nuget](https://img.shields.io/nuget/v/Fable.Websockets.Client.svg?colorB=green)](https://www.nuget.org/packages/Fable.Websockets.Client)  |
+
+
+
 ## Building
 
 Make sure the following **requirements** are installed in your system:
