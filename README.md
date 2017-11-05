@@ -1,6 +1,8 @@
 # Fable.Websockets
 A library to provide strongly typed client/server communication between Fable and F# websocket servers
 
+[![Build Status](https://travis-ci.org/fable-websockets/Fable.Websockets.svg?branch=master)](https://travis-ci.org/fable-websockets/Fable.Websockets)
+
 ## Building
 
 Make sure the following **requirements** are installed in your system:
