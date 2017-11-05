@@ -1,6 +1,5 @@
 source https://nuget.org/api/v2
-
-nuget FAKE
+storage:none
 
 nuget FSharp.Core
 
@@ -19,3 +18,7 @@ nuget Fable.React
 nuget Suave
 nuget Newtonsoft.Json
 nuget Fable.JsonConverter
+
+group build   
+    source https://nuget.org/api/v2
+    nuget FAKE
